@@ -4,7 +4,7 @@ on:
   workflow_dispatch:
     inputs:
       email:
-        description: 'Email'
+        description: 'EMail'
         required: true
         default: 'rikurunico@gmail.com'
       username:
